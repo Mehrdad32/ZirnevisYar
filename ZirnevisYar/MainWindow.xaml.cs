@@ -1,4 +1,4 @@
-﻿//Copyright 2018 - By Mehrdad Mohajer [www.Mehrdad32.ir]
+﻿//Copyright 2018 - By Mehrdad32 [www.Mehrdad32.ir]
 //If you want to use my source code, Please refer me in your work :)
 
 using System;
