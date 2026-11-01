@@ -319,7 +319,7 @@ export default function App() {
 
       <footer className="footer">
         <span>زیرنویس‌یار · یک ابزار متن‌باز از <a href="https://mehrdad32.ir/" target="_blank" rel="noopener noreferrer">Mehrdad32</a></span>
-        <div><a href="https://github.com/Mehrdad32/ZirnevisYar" target="_blank" rel="noopener noreferrer">GitHub / SOURCE</a><span className="footer-separator">·</span><a href="https://tarikhdaar.mehrdad32.ir/" target="_blank" rel="noopener noreferrer">تاریخ‌دار</a></div>
+        <div><a href="https://github.com/Mehrdad32/ZirnevisYar" target="_blank" rel="noopener noreferrer">GitHub / SOURCE</a><span className="footer-separator">·</span><a href="https://mehrdad32.ir/fa/projects" target="_blank" rel="noopener noreferrer">سایر پروژه‌ها</a></div>
       </footer>
     </main>
   )
